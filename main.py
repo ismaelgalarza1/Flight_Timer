@@ -1,9 +1,9 @@
 ###########################################################################
-# 
-# Flight time tracker it is created in customtkinter and python 
-# Created by Ismael Galarza
-# Date: 1 Jan 2025 
-#
+#                                                                       #
+# Flight time tracker it is created in customtkinter and python         #
+# Created by Ismael Galarza                                             #
+# Date: 1 Jan 2025                                                      #
+#                                                                       #
 ###########################################################################
 
 import customtkinter as ctk
